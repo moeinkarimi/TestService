@@ -5,13 +5,9 @@ import android.content.Intent;
 import android.os.Handler;
 import android.os.IBinder;
 import android.util.Log;
-import android.widget.Toast;
 
 import com.example.karimimo.testservice.Retrofit.ApiClient;
 import com.example.karimimo.testservice.Retrofit.ApiInterface;
-import com.example.karimimo.testservice.Retrofit.Models;
-
-import java.util.List;
 
 import okhttp3.ResponseBody;
 import retrofit2.Call;
